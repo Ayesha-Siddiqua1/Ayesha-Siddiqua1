@@ -51,7 +51,7 @@
 
 ## 📫 Connect with Me  
 🔗 **GitHub:** [github.com/(https://github.com/Ayesha-Siddiqua1)]
-🔗 **LinkedIn:** [linkedin.com/in/ayesha-siddiqua15)]  
+🔗 **LinkedIn:** [linkedin.com/in/(https://linkedin.com/ayesha-siddiqua15)]  
 📧 **Email:** patanayeshasiddiqua@gmail.com
 
 ---
