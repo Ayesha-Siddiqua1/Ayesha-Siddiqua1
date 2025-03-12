@@ -50,8 +50,8 @@
 ---
 
 ## 📫 Connect with Me  
-🔗 **GitHub:** [github.com/](https://github.com/Ayesha-Siddiqua1)]  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/ayesha-siddiqua15)]  
+🔗 **GitHub:** [github.com/(https://github.com/Ayesha-Siddiqua1)]
+🔗 **LinkedIn:** [linkedin.com/in/ayesha-siddiqua15)]  
 📧 **Email:** patanayeshasiddiqua@gmail.com
 
 ---
