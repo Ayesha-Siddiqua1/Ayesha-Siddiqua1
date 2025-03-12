@@ -1,12 +1,19 @@
 # 👋 Hi, I'm [Ayesha Siddiqua]
 
 🎓 **3rd Year AI & Data Science Student**  
-💻 **Passionate about Data Science, Machine Learning, and Web Development**  
+💻 **Python Enthusiast** 
+🌐 **Passionate about Data Science, Machine Learning, and Web Development**  
 
 ---
 
-## 🚀 About Me  
-I am a **3rd-year Artificial Intelligence & Data Science (AIDS) student** with a keen interest in **Python programming, Data Science, and Web Development**. I enjoy working on **data-driven projects** and continuously improving my skills in **machine learning and backend development**.  
+
+## 🔥 About Me  
+- 🎓 **3rd Year Student** in **Artificial Intelligence & Data Science (AIDS)**.  
+- 💡 Passionate about **Data Science, Machine Learning, and Web Development**.  
+- 🔍 Currently **learning Django** for backend web development.  
+- 📊 Experienced in **Python libraries**: `pandas`, `matplotlib`, `seaborn`, `numpy`, `scikit-learn`.  
+- 🗄️ Proficient in **DBMS & SQL** for database management.
+
 
 ---
 
@@ -23,14 +30,22 @@ I am a **3rd-year Artificial Intelligence & Data Science (AIDS) student** with a
 - **Scikit-learn** (Machine Learning Models)  
 
 ### **🌐 Web Development:**  
-- Learning **Django** (Backend Development)  
+- Learning **Django** (Backend Development)
+- **HTML** , **CSS** (Frontend )
+
+---
+
+### **Tech & Tools**  
+- 💻 **Jupyter Notebook, VS Code**  
+- 📊 **Data Analysis & Visualization**  
+- ⚙️ **Machine Learning Basics**
 
 ---
 
 ## 📂 Projects  
 🔹 **[Survival Prediction](#)** – In this project a ML model is trained and tested to predict whether the person in titanic ship has survived or not. I used the Logistic Regression to train the model. You can also use Random Forest and compare the results.  
 🔹 **[Credit Card Fraud Detection](#)** – In this project a ML model is trained and tested to detect whether a transaction is legit or fraud. I used the Logistic Regression to train the model. You can also use Random Forest and compare the results.  
-🔹 **[Sales Prediction](#)** – In this prject a ML model is trained to predict in which mode(TV, Radio, NewsPaper) an ad has more sales. I used Linear Regression to train the model.  
+🔹 **[Sales Prediction](#)** – In this prject a ML model is trained to predict the revenue in which mode(TV, Radio, NewsPaper) an ad has more sales. I used Linear Regression to train the model.  
 
 ---
 
