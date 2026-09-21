@@ -20,7 +20,7 @@
 
 ## 🔥 Skills  
 ### **🖥️ Programming & Tools:**  
-- **Python** (Basics, Data Analysis, Machine Learning)  
+- **Python** (Data Analysis, Machine Learning)  
 - **SQL** (Database Management & Queries)
 - **Git** (Version Control)
 - **Java** (Basics)
