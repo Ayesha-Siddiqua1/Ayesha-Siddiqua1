@@ -9,7 +9,7 @@
 
 ## 🔥 About Me  
 - 🎓 **B.Tech Graduate** in **Artificial Intelligence & Data Science (AIDS)**.  
-- 💡 Passionate about **Data Science, Machine Learning, and Web Development**.  
+- 💡 Passionate about **Data Science, Machine Learning, GenAI**.  
 - 🔍 **Django** for backend web development.  
 - 📊 Experienced in **Python libraries**: `pandas`, `matplotlib`, `seaborn`, `numpy`, `scikit-learn`, `TensorFlow`, `CNN`  
 - 🗄️ Proficient in **DBMS & SQL** for database management.
